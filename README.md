@@ -1,6 +1,6 @@
 <h1>Beef-xss Over-Wan</h1>
 
-<img src="https://ibb.co/NxzzsHZ">
+<img src="https://i.ibb.co/vQzrwWZ/IMG-20220405-WA0006.jpg">
 <img src="https://ibb.co/s63Dm4y">
 <img src="https://ibb.co/41tL9S8">
 
